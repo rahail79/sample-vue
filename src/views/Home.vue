@@ -2,7 +2,7 @@
   <div class="home">
 
     <img alt="Vue logo" src="../assets/download.jpeg" />
-    <h1>History of smartphones</h1>
+    <h1>Arizona</h1>
     <HelloWorld msg="Welcome to Your Vue.js App" />
 
 
