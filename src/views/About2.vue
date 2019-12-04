@@ -16,6 +16,5 @@
       </b-collapse>
     </div>
 
-
 </div>
 </template>
