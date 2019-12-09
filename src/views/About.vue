@@ -15,9 +15,13 @@ Total employment 2016
 
 2,379,409
 Total employer establishments 2</p>
+<img alt="Vue logo" style="width: 400px" src="../assets/City.jpeg" />
         <b-button v-b-toggle.collapse-1-inner size="sm">Climate</b-button>
         <b-collapse id="collapse-1-inner" class="mt-2">
           <b-card>Arizona is well known for its desert Basin and Range region in the state's southern portions, which is rich in a landscape of xerophyte plants such as the cactus. This region's topography was shaped by prehistoric volcanism, followed by the cooling-off and related subsidence. Its climate has exceptionally hot summers and mild winters. The state is less well known for its pine-covered north-central portion of the high country of the Colorado Plateau (see Arizona Mountains forests).!</b-card>
+
+          <img alt="Vue logo" src="../assets/Climate.png" />
+
         </b-collapse>
       </b-card>
     </b-collapse>
