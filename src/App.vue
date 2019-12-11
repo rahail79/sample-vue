@@ -30,4 +30,8 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+div {
+  font-family: "Times new roman", Times, serif;
+}
 </style>
