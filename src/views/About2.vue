@@ -12,9 +12,13 @@
           <p class="card-text">the iconic Grand Canyon draws oohs and aahs from visitors perched at the edge of its towering cliffs. Carved by the copper-colored Colorado River, the colorful rock layers record billions of years of history and hide many unique species.</p>
           <img alt="Vue logo" src="../assets/map.png" />
 
-          <b-button v-b-toggle.collapse-1-inner size="sm">Toggle Inner Collapse</b-button>
+          <b-button v-b-toggle.collapse-1-inner size="sm">Major cities</b-button>
           <b-collapse id="collapse-1-inner" class="mt-2">
             <b-card>Hello!</b-card>
+            <div>
+              <b-table striped hover :items="items"></b-table>
+            </div>
+
           </b-collapse>
         </b-card>
       </b-collapse>
@@ -22,3 +26,18 @@
 
 </div>
 </template>
+
+<script>
+  export default {
+    data() {
+      return {
+        items: [
+          { Population: 1.6, City: 'Phoenix', County: 'Maricopa' },
+          { Population:535677, City: 'Tucson', County: 'Pima' },
+          { Population: 496401, City: 'Mesa', County: 'Maricopa' },
+          { Population: 253458, City: 'Chandler', County: 'Maricopa' }
+        ]
+      }
+    }
+  }
+</script>
