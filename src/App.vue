@@ -17,7 +17,7 @@
   text-align: center;
   color: #2c3e50;
 
-  background-image: url("assets/gcnp.jpeg");
+  background-image: url("assets/cover_2.jpeg");
   background-color: #cccccc;
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
