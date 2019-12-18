@@ -1,8 +1,7 @@
 <template>
   <div class="About2">
     <h1>Natural beaty</h1>
-<p>Arizona is a land of beauty. Home to canyons, mountains, deserts, forests, and riparian areas, Arizona is a state where every turn features a stunning landscape. Today, we're going to honor that natural beauty by looking at some of our state's favorite locations.<p>
-<font color="green">This is some text!</font>
+<p><font face="verdana" color="green">Arizona is a land of beauty. Home to canyons, mountains, deserts, forests, and riparian areas, Arizona is a state where every turn features a stunning landscape. Today, we're going to honor that natural beauty by looking at some of our state's favorite locations.</font></p>
 <img alt="Vue logo" src="../assets/Cactus.jpg" />
 <!-- Collapse -->
     <div>
