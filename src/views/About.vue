@@ -4,13 +4,13 @@
       <b-card>
 <img alt="Vue logo" src="../assets/Arizona.jpg" />
 
-  <h1>Economy/Climate</h1>
+  <h1>Things to do/Climate</h1>
 <!-- Collapse -->
   <div>
-    <b-button v-b-toggle.collapse-1 variant="primary">Economy</b-button>
+    <b-button v-b-toggle.collapse-1 variant="primary">Things to do</b-button>
     <b-collapse id="collapse-1" class="mt-2">
       <b-card>
-        <p class="card-text">The state's per capita income is $40,828, ranking 39th in the U.S. The state had a median household income of $50,448, making it 22nd in the country and just below the U.S. national mean.[78] Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output.
+        <p class="Activitys">Flagstaff, a ponderosa pine–covered mountain town, is a major gateway to the Grand Canyon. Other natural sites include Saguaro National Park, protecting cactus-filled Sonoran Desert landscape. Tucson is University of Arizona territory and home to the Arizona-Sonora Desert Museum.
 
 Employment
 Total employment 2016

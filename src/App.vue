@@ -40,7 +40,7 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
-
+/* Creates a font */
 div {
   font-family: "Times new roman", Times, serif;
 }
